@@ -1,2 +1,2 @@
 # IN20A
-Wiki des MC Server
+Klick on the "Wiki"-Tab to get to the wiki page.
